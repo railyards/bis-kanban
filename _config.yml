@@ -7,23 +7,18 @@ safe: false
 
 ### site serving configuration ###
 exclude: [CNAME, README.md, .gitignore]
-permalink: / ## disables post output
+permalink: /:title ## disables post output
 timezone: null
 lsi: false
 markdown: kramdown
 
 
 ### content configuration ###
-title:       "[Cours BIS] La gestion au quotidien : Kanban 
-appliqué"
-keywords:    "kanban, 
-gestion, bibliothèque"
-description: "Page destinée aux personnes participants au webinaire 
-BIS concernant la Kanban (novembre 2018"
-source_link: 
-"https://github.com/railyards/bis-kanban"
-favicon:     #put a path like: 
-"img/favicon.ico"
+title:       "[Cours BIS] La gestion au quotidien : Kanban"  
+keywords:    "kanban, gestion, bibliothèque"
+description: "Page destinée aux personnes participants au webinaire BIS concernantBAN" la Kanban (novembre 2018"
+source_link: "https://github.com/railyards/bis-kanban"
+favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
 google_analytics_key: ## put YOUR key here to enable tracking! (blank to disable)
 
