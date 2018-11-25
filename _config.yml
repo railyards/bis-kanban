@@ -16,7 +16,7 @@ markdown: kramdown
 ### content configuration ###
 title:       "[Cours BIS] La gestion au quotidien : Kanban"  
 keywords:    "kanban, gestion, bibliothèque"
-description: "Page destinée aux personnes participants au webinaire BIS concernantBAN" la Kanban (novembre 2018"
+description: "Page destinée aux personnes participants au webinaire BIS concernant Kanban (novembre 2018)"
 source_link: "https://github.com/railyards/bis-kanban"
 favicon:     #put a path like: "img/favicon.ico"
 touch_icon:  #put a path like: "img/apple-touch-icon.png"
